@@ -1,0 +1,158 @@
+fileFormatVersion: 2
+guid: ca62dacb20068468e96a3aac3d5f2424
+timeCreated: 1447616175
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 6ff1c25c0069c1dddc2569a5d8885489
+  longitude: 2.3330000000000002
+  latitude: 48.866999999999997
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 35.0128746, y: 41.0799713, z: 54.4913025}
+      lookAt: {x: 11.6376209, y: 25.8136387, z: 38.4468307}
+      up: {x: -.390880108, y: .880471826, z: -.26829499}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Group 1
+    100002: Group 10
+    100004: Group 12
+    100006: Group 14
+    100008: Group 16
+    100010: Group 18
+    100012: Group 2
+    100014: Group 20
+    100016: Group 22
+    100018: Group 24
+    100020: Group 26
+    100022: Group 28
+    100024: Group 3
+    100026: Group 5
+    100028: Group 6
+    100030: Group 8
+    100032: //RootNode
+    400000: Group 1
+    400002: Group 10
+    400004: Group 12
+    400006: Group 14
+    400008: Group 16
+    400010: Group 18
+    400012: Group 2
+    400014: Group 20
+    400016: Group 22
+    400018: Group 24
+    400020: Group 26
+    400022: Group 28
+    400024: Group 3
+    400026: Group 5
+    400028: Group 6
+    400030: Group 8
+    400032: //RootNode
+    2300000: Group 10
+    2300002: Group 12
+    2300004: Group 14
+    2300006: Group 16
+    2300008: Group 18
+    2300010: Group 20
+    2300012: Group 22
+    2300014: Group 24
+    2300016: Group 26
+    2300018: Group 28
+    2300020: Group 3
+    2300022: Group 6
+    2300024: Group 8
+    3300000: Group 10
+    3300002: Group 12
+    3300004: Group 14
+    3300006: Group 16
+    3300008: Group 18
+    3300010: Group 20
+    3300012: Group 22
+    3300014: Group 24
+    3300016: Group 26
+    3300018: Group 28
+    3300020: Group 3
+    3300022: Group 6
+    3300024: Group 8
+    4300000: Mesh Group 3
+    4300002: Mesh Group 6
+    4300004: Mesh Group 8
+    4300006: Mesh Group 10
+    4300008: Mesh Group 24
+    4300010: Mesh Group 26
+    4300012: Mesh Group 28
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .0253999997
+    meshCompression: 3
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,128 @@
+fileFormatVersion: 2
+guid: d94dd0499c22bc14a94081e51d8cafde
+timeCreated: 1447513607
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 00000000010000000200000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f00000010000000
+  assetHash:
+    serializedVersion: 2
+    Hash: d289796e9e2461abbbbb00497abf4c11
+  longitude: 120.983377
+  latitude: 14.531558
+  northCorrection: 359.49351902433773
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 137.177963, y: 25.4681854, z: -47.5546799}
+      lookAt: {x: -353.759094, y: -34.0754013, z: 371.099701}
+      up: {x: -.0699234083, y: .995768666, z: .0596282966}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Google Earth Terrain
+    100002: Group 9
+    100004: hfhhj
+    100006: hfhhj 1
+    100008: Official Mall Of Asia Arena Full Version
+    100010: Susan
+    100012: Susan#2
+    100014: //RootNode
+    400000: Google Earth Terrain
+    400002: Group 9
+    400004: hfhhj
+    400006: hfhhj 1
+    400008: Official Mall Of Asia Arena Full Version
+    400010: Susan
+    400012: Susan#2
+    400014: //RootNode
+    2300000: Google Earth Terrain
+    2300002: Group 9
+    2300004: hfhhj
+    2300006: hfhhj 1
+    2300008: Official Mall Of Asia Arena Full Version
+    2300010: Susan
+    2300012: Susan#2
+    3300000: Google Earth Terrain
+    3300002: Group 9
+    3300004: hfhhj
+    3300006: hfhhj 1
+    3300008: Official Mall Of Asia Arena Full Version
+    3300010: Susan
+    3300012: Susan#2
+    4300000: Mesh Google Earth Terrain
+    4300002: Mesh Susan
+    4300004: Mesh Official Mall Of Asia Arena Full Version
+    4300006: Mesh Group 9
+    4300008: Mesh Susan#2
+    4300010: Mesh hfhhj
+    4300012: Mesh hfhhj
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .0253999997
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

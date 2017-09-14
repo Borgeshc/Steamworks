@@ -1,0 +1,124 @@
+fileFormatVersion: 2
+guid: b8c1dfa7194634c0a90f98303cddbc82
+timeCreated: 1447513461
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 3d97aabdfc7d05e964ffd3cce3092d07
+  longitude: -105.283
+  latitude: 40.017000000000003
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: .609698772, y: .534530342, z: -.880358934}
+      lookAt: {x: -7.7288785, y: -5.46328068, z: 21.4058533}
+      up: {x: -.0856512338, y: .969670534, z: .228916928}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Component#15
+    100002: Component#5
+    100004: FED SIG BEACON RAY
+    100006: hood
+    100008: SimpleDome02
+    100010: siren
+    100012: siren 1
+    100014: //RootNode
+    400000: Component#15
+    400002: Component#5
+    400004: FED SIG BEACON RAY
+    400006: hood
+    400008: SimpleDome02
+    400010: siren
+    400012: siren 1
+    400014: //RootNode
+    2300000: Component#15
+    2300002: Component#5
+    2300004: hood
+    2300006: SimpleDome02
+    2300008: siren
+    2300010: siren 1
+    3300000: Component#15
+    3300002: Component#5
+    3300004: hood
+    3300006: SimpleDome02
+    3300008: siren
+    3300010: siren 1
+    4300000: Mesh siren
+    4300002: Mesh Component#5
+    4300004: Mesh Component#15
+    4300006: Mesh SimpleDome02
+    4300008: Mesh hood
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .0253999997
+    meshCompression: 3
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

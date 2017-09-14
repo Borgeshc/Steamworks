@@ -1,0 +1,144 @@
+fileFormatVersion: 2
+guid: b20e1c9c81de4f043872109f1c096bda
+timeCreated: 1448468777
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 07b4f5982772e768d1ce0695336b60ba
+  longitude: -105.283
+  latitude: 40.017000000000003
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 42.0652466, y: 46.885849, z: -35.3261147}
+      lookAt: {x: 28.6377983, y: 29.8053207, z: -23.9182243}
+      up: {x: -.530450881, y: .717997253, z: .450668246}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: chamfer
+    100002: chamfer 1
+    100004: chamfer 2
+    100006: chamfer 3
+    100008: chamfer 4
+    100010: chamfer 5
+    100012: chamfer 6
+    100014: chamfer 7
+    100016: cylinder
+    100018: Group 1
+    100020: Group 6
+    100022: Group 8
+    100024: motor
+    100026: motor5041
+    100028: //RootNode
+    400000: chamfer
+    400002: chamfer 1
+    400004: chamfer 2
+    400006: chamfer 3
+    400008: chamfer 4
+    400010: chamfer 5
+    400012: chamfer 6
+    400014: chamfer 7
+    400016: cylinder
+    400018: Group 1
+    400020: Group 6
+    400022: Group 8
+    400024: motor
+    400026: motor5041
+    400028: //RootNode
+    2300000: chamfer
+    2300002: chamfer 1
+    2300004: chamfer 2
+    2300006: chamfer 3
+    2300008: chamfer 4
+    2300010: chamfer 5
+    2300012: chamfer 6
+    2300014: chamfer 7
+    2300016: cylinder
+    2300018: Group 6
+    3300000: chamfer
+    3300002: chamfer 1
+    3300004: chamfer 2
+    3300006: chamfer 3
+    3300008: chamfer 4
+    3300010: chamfer 5
+    3300012: chamfer 6
+    3300014: chamfer 7
+    3300016: cylinder
+    3300018: Group 6
+    4300000: Mesh cylinder
+    4300002: Mesh Group 6
+    4300004: Mesh chamfer
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .0253999997
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

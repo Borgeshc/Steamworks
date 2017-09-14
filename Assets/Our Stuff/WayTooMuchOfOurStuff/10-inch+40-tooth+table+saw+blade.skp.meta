@@ -1,0 +1,257 @@
+fileFormatVersion: 2
+guid: ccde24dfdac119149ac3c16535beccc9
+timeCreated: 1448381238
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f0000005000000051000000
+  assetHash:
+    serializedVersion: 2
+    Hash: de50466e49cf52647b9ede84faea6ef7
+  longitude: -105.283
+  latitude: 40.017000000000003
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: .229570553, y: -.239684448, z: .0573354587}
+      lookAt: {x: -.0355845951, y: .0978902206, z: .122946881}
+      up: {x: -.0598066412, y: .144979671, z: -.98762548}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: tooth
+    100004: tooth 1
+    100006: tooth 10
+    100008: tooth 11
+    100010: tooth 12
+    100012: tooth 13
+    100014: tooth 14
+    100016: tooth 15
+    100018: tooth 16
+    100020: tooth 17
+    100022: tooth 18
+    100024: tooth 19
+    100026: tooth 2
+    100028: tooth 20
+    100030: tooth 21
+    100032: tooth 22
+    100034: tooth 23
+    100036: tooth 24
+    100038: tooth 25
+    100040: tooth 26
+    100042: tooth 27
+    100044: tooth 28
+    100046: tooth 29
+    100048: tooth 3
+    100050: tooth 30
+    100052: tooth 31
+    100054: tooth 32
+    100056: tooth 33
+    100058: tooth 34
+    100060: tooth 35
+    100062: tooth 36
+    100064: tooth 37
+    100066: tooth 38
+    100068: tooth 39
+    100070: tooth 4
+    100072: tooth 5
+    100074: tooth 6
+    100076: tooth 7
+    100078: tooth 8
+    100080: tooth 9
+    400000: //RootNode
+    400002: tooth
+    400004: tooth 1
+    400006: tooth 10
+    400008: tooth 11
+    400010: tooth 12
+    400012: tooth 13
+    400014: tooth 14
+    400016: tooth 15
+    400018: tooth 16
+    400020: tooth 17
+    400022: tooth 18
+    400024: tooth 19
+    400026: tooth 2
+    400028: tooth 20
+    400030: tooth 21
+    400032: tooth 22
+    400034: tooth 23
+    400036: tooth 24
+    400038: tooth 25
+    400040: tooth 26
+    400042: tooth 27
+    400044: tooth 28
+    400046: tooth 29
+    400048: tooth 3
+    400050: tooth 30
+    400052: tooth 31
+    400054: tooth 32
+    400056: tooth 33
+    400058: tooth 34
+    400060: tooth 35
+    400062: tooth 36
+    400064: tooth 37
+    400066: tooth 38
+    400068: tooth 39
+    400070: tooth 4
+    400072: tooth 5
+    400074: tooth 6
+    400076: tooth 7
+    400078: tooth 8
+    400080: tooth 9
+    2300000: //RootNode
+    2300002: tooth
+    2300004: tooth 1
+    2300006: tooth 10
+    2300008: tooth 11
+    2300010: tooth 12
+    2300012: tooth 13
+    2300014: tooth 14
+    2300016: tooth 15
+    2300018: tooth 16
+    2300020: tooth 17
+    2300022: tooth 18
+    2300024: tooth 19
+    2300026: tooth 2
+    2300028: tooth 20
+    2300030: tooth 21
+    2300032: tooth 22
+    2300034: tooth 23
+    2300036: tooth 24
+    2300038: tooth 25
+    2300040: tooth 26
+    2300042: tooth 27
+    2300044: tooth 28
+    2300046: tooth 29
+    2300048: tooth 3
+    2300050: tooth 30
+    2300052: tooth 31
+    2300054: tooth 32
+    2300056: tooth 33
+    2300058: tooth 34
+    2300060: tooth 35
+    2300062: tooth 36
+    2300064: tooth 37
+    2300066: tooth 38
+    2300068: tooth 39
+    2300070: tooth 4
+    2300072: tooth 5
+    2300074: tooth 6
+    2300076: tooth 7
+    2300078: tooth 8
+    2300080: tooth 9
+    3300000: //RootNode
+    3300002: tooth
+    3300004: tooth 1
+    3300006: tooth 10
+    3300008: tooth 11
+    3300010: tooth 12
+    3300012: tooth 13
+    3300014: tooth 14
+    3300016: tooth 15
+    3300018: tooth 16
+    3300020: tooth 17
+    3300022: tooth 18
+    3300024: tooth 19
+    3300026: tooth 2
+    3300028: tooth 20
+    3300030: tooth 21
+    3300032: tooth 22
+    3300034: tooth 23
+    3300036: tooth 24
+    3300038: tooth 25
+    3300040: tooth 26
+    3300042: tooth 27
+    3300044: tooth 28
+    3300046: tooth 29
+    3300048: tooth 3
+    3300050: tooth 30
+    3300052: tooth 31
+    3300054: tooth 32
+    3300056: tooth 33
+    3300058: tooth 34
+    3300060: tooth 35
+    3300062: tooth 36
+    3300064: tooth 37
+    3300066: tooth 38
+    3300068: tooth 39
+    3300070: tooth 4
+    3300072: tooth 5
+    3300074: tooth 6
+    3300076: tooth 7
+    3300078: tooth 8
+    3300080: tooth 9
+    4300000: Mesh 10-inch 40-tooth table saw blade
+    4300002: Mesh tooth
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .0253999997
+    meshCompression: 3
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

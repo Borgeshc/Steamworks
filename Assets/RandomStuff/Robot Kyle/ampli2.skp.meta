@@ -1,0 +1,205 @@
+fileFormatVersion: 2
+guid: fd10bef9ac281453a988acf11c6c7fbb
+timeCreated: 1447593156
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 2c956a29aea0bc6ef56018148c63e4b3
+  longitude: 12.5
+  latitude: 41.883000000000003
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: .766295671, y: .244557381, z: .206918478}
+      lookAt: {x: .704459488, y: .0353460684, z: .695667088}
+      up: {x: -.0490631498, y: .920440376, z: .387791753}
+      fov: 52.4188118
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Componente#2
+    100004: Componente#2 1
+    100006: Componente#5
+    100008: Componente#6
+    100010: Componente#6 1
+    100012: Componente#7
+    100014: EL Small
+    100016: EL Small 1
+    100018: EL Small 2
+    100020: EL Small 3
+    100022: EL Small 4
+    100024: EL34
+    100026: EL34 1
+    100028: EL34 2
+    100030: EL34 valve
+    100032: EL34 valve 1
+    100034: EL34 valve 2
+    100036: knob_06850-4010_x_30
+    100038: knob_06850-4010_x_30 1
+    100040: power
+    100042: Pre-Amp valve for valve amplifier
+    100044: Pre-Amp valve for valve amplifier 1
+    100046: Pre-Amp valve for valve amplifier 2
+    100048: Pre-Amp valve for valve amplifier 3
+    100050: Pre-Amp valve for valve amplifier 4
+    100052: Threaded steel aster knob M10
+    100054: Threaded steel aster knob M10 1
+    100056: volume
+    400000: //RootNode
+    400002: Componente#2
+    400004: Componente#2 1
+    400006: Componente#5
+    400008: Componente#6
+    400010: Componente#6 1
+    400012: Componente#7
+    400014: EL Small
+    400016: EL Small 1
+    400018: EL Small 2
+    400020: EL Small 3
+    400022: EL Small 4
+    400024: EL34
+    400026: EL34 1
+    400028: EL34 2
+    400030: EL34 valve
+    400032: EL34 valve 1
+    400034: EL34 valve 2
+    400036: knob_06850-4010_x_30
+    400038: knob_06850-4010_x_30 1
+    400040: power
+    400042: Pre-Amp valve for valve amplifier
+    400044: Pre-Amp valve for valve amplifier 1
+    400046: Pre-Amp valve for valve amplifier 2
+    400048: Pre-Amp valve for valve amplifier 3
+    400050: Pre-Amp valve for valve amplifier 4
+    400052: Threaded steel aster knob M10
+    400054: Threaded steel aster knob M10 1
+    400056: volume
+    2300000: //RootNode
+    2300002: Componente#2
+    2300004: Componente#2 1
+    2300006: Componente#5
+    2300008: Componente#6
+    2300010: Componente#6 1
+    2300012: Componente#7
+    2300014: EL Small
+    2300016: EL Small 1
+    2300018: EL Small 2
+    2300020: EL Small 3
+    2300022: EL Small 4
+    2300024: EL34
+    2300026: EL34 1
+    2300028: EL34 2
+    2300030: EL34 valve
+    2300032: EL34 valve 1
+    2300034: EL34 valve 2
+    2300036: knob_06850-4010_x_30
+    2300038: knob_06850-4010_x_30 1
+    2300040: power
+    2300042: volume
+    3300000: //RootNode
+    3300002: Componente#2
+    3300004: Componente#2 1
+    3300006: Componente#5
+    3300008: Componente#6
+    3300010: Componente#6 1
+    3300012: Componente#7
+    3300014: EL Small
+    3300016: EL Small 1
+    3300018: EL Small 2
+    3300020: EL Small 3
+    3300022: EL Small 4
+    3300024: EL34
+    3300026: EL34 1
+    3300028: EL34 2
+    3300030: EL34 valve
+    3300032: EL34 valve 1
+    3300034: EL34 valve 2
+    3300036: knob_06850-4010_x_30
+    3300038: knob_06850-4010_x_30 1
+    3300040: power
+    3300042: volume
+    4300000: Mesh ampli2
+    4300002: Mesh EL34 valve
+    4300004: Mesh EL34
+    4300006: Mesh EL Small
+    4300008: Mesh Componente#2
+    4300010: Mesh knob_06850-4010_x_30
+    4300012: Mesh Componente#5
+    4300014: Mesh Componente#2
+    4300016: Mesh Componente#6
+    4300018: Mesh Componente#7
+    4300020: Mesh volume
+    4300022: Mesh power
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .0253999997
+    meshCompression: 3
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

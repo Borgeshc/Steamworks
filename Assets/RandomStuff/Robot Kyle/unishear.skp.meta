@@ -1,0 +1,738 @@
+fileFormatVersion: 2
+guid: 0d80e8156903e4891b48bb2971ecb611
+timeCreated: 1447612903
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000ad000000ae000000af000000b0000000b1000000b2000000b3000000b4000000b5000000b6000000b7000000b8000000b9000000ba000000bb000000bc000000bd000000be000000bf000000c0000000c1000000c2000000c3000000c4000000c5000000c6000000c7000000c8000000c9000000ca000000cb000000cc000000cd000000ce000000cf000000d0000000d1000000d2000000d3000000d4000000d5000000d6000000d7000000d8000000d9000000da000000db000000dc000000dd000000de000000df000000e0000000e1000000e2000000e3000000e4000000e5000000e6000000e7000000e8000000e9000000ea000000eb000000ec000000ed000000ee000000ef000000f0000000f1000000f2000000f3000000f4000000f5000000f6000000f7000000f8000000f9000000fa000000fb000000fc000000fd000000fe000000ff000000000100000101000002010000030100000401000005010000060100000701000008010000090100000a0100000b0100000c0100000d0100000e0100000f010000100100001101000012010000130100001401000015010000160100001701000018010000190100001a0100001b0100001c0100001d0100001e0100001f010000200100002101000022010000230100002401000025010000260100002701000028010000290100002a0100002b0100002c0100002d0100002e0100002f010000300100003101000032010000330100003401000035010000360100003701000038010000390100003a0100003b0100003c0100003d0100003e010000
+  assetHash:
+    serializedVersion: 2
+    Hash: 02f078a246a231bd92165537328ec953
+  longitude: -105.283
+  latitude: 40.017000000000003
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 4.87635756, y: 6.06931734, z: -4.59960699}
+      lookAt: {x: -4.38016224, y: -7.49204874, z: 13.6373615}
+      up: {x: -.250126243, y: .833422065, z: .492792606}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: box
+    100002: box 1
+    100004: box 10
+    100006: box 11
+    100008: box 12
+    100010: box 13
+    100012: box 14
+    100014: box 15
+    100016: box 16
+    100018: box 17
+    100020: box 18
+    100022: box 19
+    100024: box 2
+    100026: box 20
+    100028: box 21
+    100030: box 22
+    100032: box 23
+    100034: box 24
+    100036: box 25
+    100038: box 26
+    100040: box 27
+    100042: box 28
+    100044: box 29
+    100046: box 3
+    100048: box 30
+    100050: box 31
+    100052: box 32
+    100054: box 33
+    100056: box 34
+    100058: box 35
+    100060: box 36
+    100062: box 37
+    100064: box 38
+    100066: box 39
+    100068: box 4
+    100070: box 40
+    100072: box 41
+    100074: box 42
+    100076: box 43
+    100078: box 44
+    100080: box 45
+    100082: box 46
+    100084: box 47
+    100086: box 48
+    100088: box 49
+    100090: box 5
+    100092: box 50
+    100094: box 51
+    100096: box 52
+    100098: box 53
+    100100: box 54
+    100102: box 55
+    100104: box 56
+    100106: box 57
+    100108: box 58
+    100110: box 59
+    100112: box 6
+    100114: box 60
+    100116: box 61
+    100118: box 62
+    100120: box 63
+    100122: box 64
+    100124: box 65
+    100126: box 66
+    100128: box 67
+    100130: box 68
+    100132: box 69
+    100134: box 7
+    100136: box 70
+    100138: box 71
+    100140: box 72
+    100142: box 73
+    100144: box 74
+    100146: box 75
+    100148: box 76
+    100150: box 77
+    100152: box 78
+    100154: box 79
+    100156: box 8
+    100158: box 80
+    100160: box 81
+    100162: box 82
+    100164: box 83
+    100166: box 84
+    100168: box 85
+    100170: box 86
+    100172: box 87
+    100174: box 88
+    100176: box 89
+    100178: box 9
+    100180: box 90
+    100182: box 91
+    100184: box 92
+    100186: box 93
+    100188: box 94
+    100190: box 95
+    100192: box 96
+    100194: box 97
+    100196: box 98
+    100198: box 99
+    100200: convexhull
+    100202: convexhull 1
+    100204: convexhull 10
+    100206: convexhull 11
+    100208: convexhull 12
+    100210: convexhull 13
+    100212: convexhull 14
+    100214: convexhull 15
+    100216: convexhull 16
+    100218: convexhull 17
+    100220: convexhull 18
+    100222: convexhull 19
+    100224: convexhull 2
+    100226: convexhull 20
+    100228: convexhull 21
+    100230: convexhull 22
+    100232: convexhull 23
+    100234: convexhull 24
+    100236: convexhull 25
+    100238: convexhull 26
+    100240: convexhull 27
+    100242: convexhull 28
+    100244: convexhull 29
+    100246: convexhull 3
+    100248: convexhull 30
+    100250: convexhull 31
+    100252: convexhull 32
+    100254: convexhull 33
+    100256: convexhull 34
+    100258: convexhull 35
+    100260: convexhull 36
+    100262: convexhull 37
+    100264: convexhull 38
+    100266: convexhull 39
+    100268: convexhull 4
+    100270: convexhull 40
+    100272: convexhull 41
+    100274: convexhull 42
+    100276: convexhull 43
+    100278: convexhull 44
+    100280: convexhull 45
+    100282: convexhull 46
+    100284: convexhull 47
+    100286: convexhull 48
+    100288: convexhull 49
+    100290: convexhull 5
+    100292: convexhull 50
+    100294: convexhull 51
+    100296: convexhull 6
+    100298: convexhull 7
+    100300: convexhull 8
+    100302: convexhull 9
+    100304: cylinder
+    100306: floor
+    100308: Group 1
+    100310: Group 110
+    100312: Group 113
+    100314: Group 117
+    100316: motor
+    100318: motor3108
+    100320: piston
+    100322: piston3761
+    100324: //RootNode
+    400000: box
+    400002: box 1
+    400004: box 10
+    400006: box 11
+    400008: box 12
+    400010: box 13
+    400012: box 14
+    400014: box 15
+    400016: box 16
+    400018: box 17
+    400020: box 18
+    400022: box 19
+    400024: box 2
+    400026: box 20
+    400028: box 21
+    400030: box 22
+    400032: box 23
+    400034: box 24
+    400036: box 25
+    400038: box 26
+    400040: box 27
+    400042: box 28
+    400044: box 29
+    400046: box 3
+    400048: box 30
+    400050: box 31
+    400052: box 32
+    400054: box 33
+    400056: box 34
+    400058: box 35
+    400060: box 36
+    400062: box 37
+    400064: box 38
+    400066: box 39
+    400068: box 4
+    400070: box 40
+    400072: box 41
+    400074: box 42
+    400076: box 43
+    400078: box 44
+    400080: box 45
+    400082: box 46
+    400084: box 47
+    400086: box 48
+    400088: box 49
+    400090: box 5
+    400092: box 50
+    400094: box 51
+    400096: box 52
+    400098: box 53
+    400100: box 54
+    400102: box 55
+    400104: box 56
+    400106: box 57
+    400108: box 58
+    400110: box 59
+    400112: box 6
+    400114: box 60
+    400116: box 61
+    400118: box 62
+    400120: box 63
+    400122: box 64
+    400124: box 65
+    400126: box 66
+    400128: box 67
+    400130: box 68
+    400132: box 69
+    400134: box 7
+    400136: box 70
+    400138: box 71
+    400140: box 72
+    400142: box 73
+    400144: box 74
+    400146: box 75
+    400148: box 76
+    400150: box 77
+    400152: box 78
+    400154: box 79
+    400156: box 8
+    400158: box 80
+    400160: box 81
+    400162: box 82
+    400164: box 83
+    400166: box 84
+    400168: box 85
+    400170: box 86
+    400172: box 87
+    400174: box 88
+    400176: box 89
+    400178: box 9
+    400180: box 90
+    400182: box 91
+    400184: box 92
+    400186: box 93
+    400188: box 94
+    400190: box 95
+    400192: box 96
+    400194: box 97
+    400196: box 98
+    400198: box 99
+    400200: convexhull
+    400202: convexhull 1
+    400204: convexhull 10
+    400206: convexhull 11
+    400208: convexhull 12
+    400210: convexhull 13
+    400212: convexhull 14
+    400214: convexhull 15
+    400216: convexhull 16
+    400218: convexhull 17
+    400220: convexhull 18
+    400222: convexhull 19
+    400224: convexhull 2
+    400226: convexhull 20
+    400228: convexhull 21
+    400230: convexhull 22
+    400232: convexhull 23
+    400234: convexhull 24
+    400236: convexhull 25
+    400238: convexhull 26
+    400240: convexhull 27
+    400242: convexhull 28
+    400244: convexhull 29
+    400246: convexhull 3
+    400248: convexhull 30
+    400250: convexhull 31
+    400252: convexhull 32
+    400254: convexhull 33
+    400256: convexhull 34
+    400258: convexhull 35
+    400260: convexhull 36
+    400262: convexhull 37
+    400264: convexhull 38
+    400266: convexhull 39
+    400268: convexhull 4
+    400270: convexhull 40
+    400272: convexhull 41
+    400274: convexhull 42
+    400276: convexhull 43
+    400278: convexhull 44
+    400280: convexhull 45
+    400282: convexhull 46
+    400284: convexhull 47
+    400286: convexhull 48
+    400288: convexhull 49
+    400290: convexhull 5
+    400292: convexhull 50
+    400294: convexhull 51
+    400296: convexhull 6
+    400298: convexhull 7
+    400300: convexhull 8
+    400302: convexhull 9
+    400304: cylinder
+    400306: floor
+    400308: Group 1
+    400310: Group 110
+    400312: Group 113
+    400314: Group 117
+    400316: motor
+    400318: motor3108
+    400320: piston
+    400322: piston3761
+    400324: //RootNode
+    2300000: box
+    2300002: box 1
+    2300004: box 10
+    2300006: box 11
+    2300008: box 12
+    2300010: box 13
+    2300012: box 14
+    2300014: box 15
+    2300016: box 16
+    2300018: box 17
+    2300020: box 18
+    2300022: box 19
+    2300024: box 2
+    2300026: box 20
+    2300028: box 21
+    2300030: box 22
+    2300032: box 23
+    2300034: box 24
+    2300036: box 25
+    2300038: box 26
+    2300040: box 27
+    2300042: box 28
+    2300044: box 29
+    2300046: box 3
+    2300048: box 30
+    2300050: box 31
+    2300052: box 32
+    2300054: box 33
+    2300056: box 34
+    2300058: box 35
+    2300060: box 36
+    2300062: box 37
+    2300064: box 38
+    2300066: box 39
+    2300068: box 4
+    2300070: box 40
+    2300072: box 41
+    2300074: box 42
+    2300076: box 43
+    2300078: box 44
+    2300080: box 45
+    2300082: box 46
+    2300084: box 47
+    2300086: box 48
+    2300088: box 49
+    2300090: box 5
+    2300092: box 50
+    2300094: box 51
+    2300096: box 52
+    2300098: box 53
+    2300100: box 54
+    2300102: box 55
+    2300104: box 56
+    2300106: box 57
+    2300108: box 58
+    2300110: box 59
+    2300112: box 6
+    2300114: box 60
+    2300116: box 61
+    2300118: box 62
+    2300120: box 63
+    2300122: box 64
+    2300124: box 65
+    2300126: box 66
+    2300128: box 67
+    2300130: box 68
+    2300132: box 69
+    2300134: box 7
+    2300136: box 70
+    2300138: box 71
+    2300140: box 72
+    2300142: box 73
+    2300144: box 74
+    2300146: box 75
+    2300148: box 76
+    2300150: box 77
+    2300152: box 78
+    2300154: box 79
+    2300156: box 8
+    2300158: box 80
+    2300160: box 81
+    2300162: box 82
+    2300164: box 83
+    2300166: box 84
+    2300168: box 85
+    2300170: box 86
+    2300172: box 87
+    2300174: box 88
+    2300176: box 89
+    2300178: box 9
+    2300180: box 90
+    2300182: box 91
+    2300184: box 92
+    2300186: box 93
+    2300188: box 94
+    2300190: box 95
+    2300192: box 96
+    2300194: box 97
+    2300196: box 98
+    2300198: box 99
+    2300200: convexhull
+    2300202: convexhull 1
+    2300204: convexhull 10
+    2300206: convexhull 11
+    2300208: convexhull 12
+    2300210: convexhull 13
+    2300212: convexhull 14
+    2300214: convexhull 15
+    2300216: convexhull 16
+    2300218: convexhull 17
+    2300220: convexhull 18
+    2300222: convexhull 19
+    2300224: convexhull 2
+    2300226: convexhull 20
+    2300228: convexhull 21
+    2300230: convexhull 22
+    2300232: convexhull 23
+    2300234: convexhull 24
+    2300236: convexhull 25
+    2300238: convexhull 26
+    2300240: convexhull 27
+    2300242: convexhull 28
+    2300244: convexhull 29
+    2300246: convexhull 3
+    2300248: convexhull 30
+    2300250: convexhull 31
+    2300252: convexhull 32
+    2300254: convexhull 33
+    2300256: convexhull 34
+    2300258: convexhull 35
+    2300260: convexhull 36
+    2300262: convexhull 37
+    2300264: convexhull 38
+    2300266: convexhull 39
+    2300268: convexhull 4
+    2300270: convexhull 40
+    2300272: convexhull 41
+    2300274: convexhull 42
+    2300276: convexhull 43
+    2300278: convexhull 44
+    2300280: convexhull 45
+    2300282: convexhull 46
+    2300284: convexhull 47
+    2300286: convexhull 48
+    2300288: convexhull 49
+    2300290: convexhull 5
+    2300292: convexhull 50
+    2300294: convexhull 51
+    2300296: convexhull 6
+    2300298: convexhull 7
+    2300300: convexhull 8
+    2300302: convexhull 9
+    2300304: cylinder
+    2300306: floor
+    2300308: Group 113
+    2300310: Group 117
+    3300000: box
+    3300002: box 1
+    3300004: box 10
+    3300006: box 11
+    3300008: box 12
+    3300010: box 13
+    3300012: box 14
+    3300014: box 15
+    3300016: box 16
+    3300018: box 17
+    3300020: box 18
+    3300022: box 19
+    3300024: box 2
+    3300026: box 20
+    3300028: box 21
+    3300030: box 22
+    3300032: box 23
+    3300034: box 24
+    3300036: box 25
+    3300038: box 26
+    3300040: box 27
+    3300042: box 28
+    3300044: box 29
+    3300046: box 3
+    3300048: box 30
+    3300050: box 31
+    3300052: box 32
+    3300054: box 33
+    3300056: box 34
+    3300058: box 35
+    3300060: box 36
+    3300062: box 37
+    3300064: box 38
+    3300066: box 39
+    3300068: box 4
+    3300070: box 40
+    3300072: box 41
+    3300074: box 42
+    3300076: box 43
+    3300078: box 44
+    3300080: box 45
+    3300082: box 46
+    3300084: box 47
+    3300086: box 48
+    3300088: box 49
+    3300090: box 5
+    3300092: box 50
+    3300094: box 51
+    3300096: box 52
+    3300098: box 53
+    3300100: box 54
+    3300102: box 55
+    3300104: box 56
+    3300106: box 57
+    3300108: box 58
+    3300110: box 59
+    3300112: box 6
+    3300114: box 60
+    3300116: box 61
+    3300118: box 62
+    3300120: box 63
+    3300122: box 64
+    3300124: box 65
+    3300126: box 66
+    3300128: box 67
+    3300130: box 68
+    3300132: box 69
+    3300134: box 7
+    3300136: box 70
+    3300138: box 71
+    3300140: box 72
+    3300142: box 73
+    3300144: box 74
+    3300146: box 75
+    3300148: box 76
+    3300150: box 77
+    3300152: box 78
+    3300154: box 79
+    3300156: box 8
+    3300158: box 80
+    3300160: box 81
+    3300162: box 82
+    3300164: box 83
+    3300166: box 84
+    3300168: box 85
+    3300170: box 86
+    3300172: box 87
+    3300174: box 88
+    3300176: box 89
+    3300178: box 9
+    3300180: box 90
+    3300182: box 91
+    3300184: box 92
+    3300186: box 93
+    3300188: box 94
+    3300190: box 95
+    3300192: box 96
+    3300194: box 97
+    3300196: box 98
+    3300198: box 99
+    3300200: convexhull
+    3300202: convexhull 1
+    3300204: convexhull 10
+    3300206: convexhull 11
+    3300208: convexhull 12
+    3300210: convexhull 13
+    3300212: convexhull 14
+    3300214: convexhull 15
+    3300216: convexhull 16
+    3300218: convexhull 17
+    3300220: convexhull 18
+    3300222: convexhull 19
+    3300224: convexhull 2
+    3300226: convexhull 20
+    3300228: convexhull 21
+    3300230: convexhull 22
+    3300232: convexhull 23
+    3300234: convexhull 24
+    3300236: convexhull 25
+    3300238: convexhull 26
+    3300240: convexhull 27
+    3300242: convexhull 28
+    3300244: convexhull 29
+    3300246: convexhull 3
+    3300248: convexhull 30
+    3300250: convexhull 31
+    3300252: convexhull 32
+    3300254: convexhull 33
+    3300256: convexhull 34
+    3300258: convexhull 35
+    3300260: convexhull 36
+    3300262: convexhull 37
+    3300264: convexhull 38
+    3300266: convexhull 39
+    3300268: convexhull 4
+    3300270: convexhull 40
+    3300272: convexhull 41
+    3300274: convexhull 42
+    3300276: convexhull 43
+    3300278: convexhull 44
+    3300280: convexhull 45
+    3300282: convexhull 46
+    3300284: convexhull 47
+    3300286: convexhull 48
+    3300288: convexhull 49
+    3300290: convexhull 5
+    3300292: convexhull 50
+    3300294: convexhull 51
+    3300296: convexhull 6
+    3300298: convexhull 7
+    3300300: convexhull 8
+    3300302: convexhull 9
+    3300304: cylinder
+    3300306: floor
+    3300308: Group 113
+    3300310: Group 117
+    4300000: Mesh convexhull
+    4300002: Mesh cylinder
+    4300004: Mesh box
+    4300006: Mesh Group 113
+    4300008: Mesh Group 117
+    4300010: Mesh box
+    4300012: Mesh box
+    4300014: Mesh box
+    4300016: Mesh floor
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .0253999997
+    meshCompression: 3
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,995 @@
+fileFormatVersion: 2
+guid: 6cf31a4800bcb48558383b9b765eb2df
+timeCreated: 1447593840
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 00000000010000000200000003000000040000000700000008000000090000000a0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000ad000000ae000000af000000b0000000b1000000b2000000b3000000b4000000b5000000b6000000b7000000b8000000b9000000ba000000bb000000bc000000bd000000be000000bf000000c0000000c1000000c2000000c3000000c4000000c5000000c6000000c7000000c8000000c9000000ca000000cb000000cc000000cd000000ce000000cf000000d0000000d1000000d2000000d3000000d4000000d5000000d6000000d7000000d8000000d9000000da000000db000000dc000000dd000000de000000df000000e0000000e1000000e2000000e3000000e4000000e5000000e6000000e7000000e8000000e9000000ea000000eb000000ec000000ed000000ee000000ef000000f0000000f1000000f2000000f3000000f4000000f5000000f6000000f7000000f8000000f9000000fa000000fb000000fc000000fd000000fe000000ff000000000100000101000002010000030100000401000005010000060100000701000008010000090100000a0100000b0100000c0100000d0100000e0100000f010000100100001101000012010000130100001401000015010000160100001701000018010000190100001a0100001b0100001c0100001d0100001e0100001f010000200100002101000022010000230100002401000025010000260100002701000028010000290100002a0100002b0100002c0100002d0100002e0100002f010000300100003101000032010000330100003401000035010000360100003701000038010000390100003a0100003b0100003c0100003d0100003e0100003f010000400100004101000042010000430100004401000045010000460100004701000048010000490100004a0100004b0100004c0100004d0100004e0100004f010000500100005101000052010000530100005401000055010000560100005701000058010000590100005a0100005b0100005c0100005d0100005e0100005f010000600100006101000062010000630100006401000065010000660100006701000068010000690100006a0100006b0100006c0100006d0100006e0100006f010000700100007101000072010000730100007401000075010000760100007701000078010000790100007a0100007b0100007c0100007d0100007e0100007f010000800100008101000082010000830100008401000085010000860100008701000088010000890100008a0100008b0100008c0100008d0100008e0100008f010000900100009101000092010000930100009401000095010000960100009701000098010000990100009a0100009b0100009c0100009d0100009e0100009f010000a0010000a1010000a2010000a3010000a4010000a5010000a6010000a7010000a8010000a9010000aa010000ab010000ac010000ad010000ae010000
+  assetHash:
+    serializedVersion: 2
+    Hash: 6ca0c0dac12cf253f5198fa6e58c1645
+  longitude: -105.283
+  latitude: 40.017000000000003
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 1.17391849, y: .342971861, z: .172154143}
+      lookAt: {x: -1.08678615, y: .0469622128, z: .293081701}
+      up: {x: -.129461393, y: .99156028, z: .00692503015}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: alu1
+    100002: alu1#1
+    100004: alu1#1 1
+    100006: alu1#2
+    100008: backdoor
+    100010: biohaz
+    100012: //RootNode
+    100014: cathode
+    100016: cathode 1
+    100018: cdrom
+    100020: Component#1
+    100022: control panel
+    100024: core
+    100026: core tube
+    100028: core_floor
+    100030: gauge
+    100032: gauge glass
+    100034: gauge glass 1
+    100036: gauge#1
+    100038: Group 111
+    100040: Group 147
+    100042: Group 149
+    100044: Group 155
+    100046: Group 157
+    100048: Group 159
+    100050: Group 163
+    100052: Group 165
+    100054: Group 167
+    100056: Group 2
+    100058: Group 347
+    100060: Group 371
+    100062: Group 7
+    100064: Group 9
+    100066: handler
+    100068: handler 1
+    100070: hatch
+    100072: hatch holder
+    100074: hdd chassis
+    100076: hdd screw
+    100078: hdd screw 1
+    100080: hdd screw 10
+    100082: hdd screw 11
+    100084: hdd screw 12
+    100086: hdd screw 13
+    100088: hdd screw 14
+    100090: hdd screw 15
+    100092: hdd screw 16
+    100094: hdd screw 17
+    100096: hdd screw 18
+    100098: hdd screw 19
+    100100: hdd screw 2
+    100102: hdd screw 3
+    100104: hdd screw 4
+    100106: hdd screw 5
+    100108: hdd screw 6
+    100110: hdd screw 7
+    100112: hdd screw 8
+    100114: hdd screw 9
+    100116: HyPeRDrEaMz2000@yahoo.com_-_ATX_MOBO_+_MOBO_Tray_+_Rear_IO_Panel_+_Mounting_Screws
+    100118: Image 48
+    100120: Image 49
+    100122: Image 50
+    100124: Image 51
+    100126: Image 52
+    100128: Image 53
+    100130: Image 54
+    100132: Image 55
+    100134: Image 56
+    100136: Image 57
+    100138: Image 58
+    100140: Image 59
+    100142: Image 60
+    100144: Image 61
+    100146: Image 62
+    100148: Image 63
+    100150: Image 64
+    100152: Image 65
+    100154: Image 66
+    100156: Image 67
+    100158: led
+    100160: led 1
+    100162: led#1
+    100164: led#1 1
+    100166: led#2
+    100168: led#2 1
+    100170: led#3
+    100172: led#3 1
+    100174: libella
+    100176: lock1
+    100178: MSI KT6V
+    100180: NVIDIA GeForce 6800XT
+    100182: OptDrives- Tray- Devil_Hack
+    100184: PC Fan Grill
+    100186: pen
+    100188: pen 1
+    100190: pen 2
+    100192: pen 3
+    100194: pen 4
+    100196: pen 5
+    100198: pen 6
+    100200: pen 7
+    100202: PSU- ATX- Pjotr
+    100204: rurka1
+    100206: rurka1 1
+    100208: rurka1 2
+    100210: rurka1 3
+    100212: rurka1#1
+    100214: rurka1#1 1
+    100216: Seagate Barracuda Hard Disk
+    100218: Seagate Barracuda Hard Disk 1
+    100220: ske92D
+    100222: sruba
+    100224: sruba 1
+    100226: sruba 2
+    100228: sruba 3
+    100230: sruba1
+    100232: sruba1 1
+    100234: sruba1 10
+    100236: sruba1 11
+    100238: sruba1 12
+    100240: sruba1 13
+    100242: sruba1 14
+    100244: sruba1 15
+    100246: sruba1 16
+    100248: sruba1 17
+    100250: sruba1 18
+    100252: sruba1 19
+    100254: sruba1 2
+    100256: sruba1 20
+    100258: sruba1 21
+    100260: sruba1 22
+    100262: sruba1 23
+    100264: sruba1 24
+    100266: sruba1 25
+    100268: sruba1 26
+    100270: sruba1 27
+    100272: sruba1 28
+    100274: sruba1 29
+    100276: sruba1 3
+    100278: sruba1 30
+    100280: sruba1 31
+    100282: sruba1 32
+    100284: sruba1 33
+    100286: sruba1 34
+    100288: sruba1 35
+    100290: sruba1 36
+    100292: sruba1 37
+    100294: sruba1 38
+    100296: sruba1 39
+    100298: sruba1 4
+    100300: sruba1 40
+    100302: sruba1 41
+    100304: sruba1 42
+    100306: sruba1 43
+    100308: sruba1 5
+    100310: sruba1 6
+    100312: sruba1 7
+    100314: sruba1 8
+    100316: sruba1 9
+    100318: sruba2
+    100320: sruba2 1
+    100322: sruba2 10
+    100324: sruba2 11
+    100326: sruba2 12
+    100328: sruba2 13
+    100330: sruba2 14
+    100332: sruba2 15
+    100334: sruba2 16
+    100336: sruba2 17
+    100338: sruba2 18
+    100340: sruba2 19
+    100342: sruba2 2
+    100344: sruba2 20
+    100346: sruba2 21
+    100348: sruba2 22
+    100350: sruba2 23
+    100352: sruba2 24
+    100354: sruba2 25
+    100356: sruba2 26
+    100358: sruba2 27
+    100360: sruba2 28
+    100362: sruba2 29
+    100364: sruba2 3
+    100366: sruba2 30
+    100368: sruba2 31
+    100370: sruba2 32
+    100372: sruba2 33
+    100374: sruba2 34
+    100376: sruba2 35
+    100378: sruba2 36
+    100380: sruba2 37
+    100382: sruba2 4
+    100384: sruba2 5
+    100386: sruba2 6
+    100388: sruba2 7
+    100390: sruba2 8
+    100392: sruba2 9
+    100394: switch
+    100396: switch 1
+    100398: switch 2
+    100400: switch 3
+    100402: szybka
+    100404: szybka#1
+    100406: uchwyt
+    100408: uchwyt 1
+    100410: uchwyt 2
+    100412: Wentylator 120mm
+    100414: wentylator_120
+    100416: whatever
+    400000: alu1
+    400002: alu1#1
+    400004: alu1#1 1
+    400006: alu1#2
+    400008: backdoor
+    400010: biohaz
+    400012: //RootNode
+    400014: cathode
+    400016: cathode 1
+    400018: cdrom
+    400020: Component#1
+    400022: control panel
+    400024: core
+    400026: core tube
+    400028: core_floor
+    400030: gauge
+    400032: gauge glass
+    400034: gauge glass 1
+    400036: gauge#1
+    400038: Group 111
+    400040: Group 147
+    400042: Group 149
+    400044: Group 155
+    400046: Group 157
+    400048: Group 159
+    400050: Group 163
+    400052: Group 165
+    400054: Group 167
+    400056: Group 2
+    400058: Group 347
+    400060: Group 371
+    400062: Group 7
+    400064: Group 9
+    400066: handler
+    400068: handler 1
+    400070: hatch
+    400072: hatch holder
+    400074: hdd chassis
+    400076: hdd screw
+    400078: hdd screw 1
+    400080: hdd screw 10
+    400082: hdd screw 11
+    400084: hdd screw 12
+    400086: hdd screw 13
+    400088: hdd screw 14
+    400090: hdd screw 15
+    400092: hdd screw 16
+    400094: hdd screw 17
+    400096: hdd screw 18
+    400098: hdd screw 19
+    400100: hdd screw 2
+    400102: hdd screw 3
+    400104: hdd screw 4
+    400106: hdd screw 5
+    400108: hdd screw 6
+    400110: hdd screw 7
+    400112: hdd screw 8
+    400114: hdd screw 9
+    400116: HyPeRDrEaMz2000@yahoo.com_-_ATX_MOBO_+_MOBO_Tray_+_Rear_IO_Panel_+_Mounting_Screws
+    400118: Image 48
+    400120: Image 49
+    400122: Image 50
+    400124: Image 51
+    400126: Image 52
+    400128: Image 53
+    400130: Image 54
+    400132: Image 55
+    400134: Image 56
+    400136: Image 57
+    400138: Image 58
+    400140: Image 59
+    400142: Image 60
+    400144: Image 61
+    400146: Image 62
+    400148: Image 63
+    400150: Image 64
+    400152: Image 65
+    400154: Image 66
+    400156: Image 67
+    400158: led
+    400160: led 1
+    400162: led#1
+    400164: led#1 1
+    400166: led#2
+    400168: led#2 1
+    400170: led#3
+    400172: led#3 1
+    400174: libella
+    400176: lock1
+    400178: MSI KT6V
+    400180: NVIDIA GeForce 6800XT
+    400182: OptDrives- Tray- Devil_Hack
+    400184: PC Fan Grill
+    400186: pen
+    400188: pen 1
+    400190: pen 2
+    400192: pen 3
+    400194: pen 4
+    400196: pen 5
+    400198: pen 6
+    400200: pen 7
+    400202: PSU- ATX- Pjotr
+    400204: rurka1
+    400206: rurka1 1
+    400208: rurka1 2
+    400210: rurka1 3
+    400212: rurka1#1
+    400214: rurka1#1 1
+    400216: Seagate Barracuda Hard Disk
+    400218: Seagate Barracuda Hard Disk 1
+    400220: ske92D
+    400222: sruba
+    400224: sruba 1
+    400226: sruba 2
+    400228: sruba 3
+    400230: sruba1
+    400232: sruba1 1
+    400234: sruba1 10
+    400236: sruba1 11
+    400238: sruba1 12
+    400240: sruba1 13
+    400242: sruba1 14
+    400244: sruba1 15
+    400246: sruba1 16
+    400248: sruba1 17
+    400250: sruba1 18
+    400252: sruba1 19
+    400254: sruba1 2
+    400256: sruba1 20
+    400258: sruba1 21
+    400260: sruba1 22
+    400262: sruba1 23
+    400264: sruba1 24
+    400266: sruba1 25
+    400268: sruba1 26
+    400270: sruba1 27
+    400272: sruba1 28
+    400274: sruba1 29
+    400276: sruba1 3
+    400278: sruba1 30
+    400280: sruba1 31
+    400282: sruba1 32
+    400284: sruba1 33
+    400286: sruba1 34
+    400288: sruba1 35
+    400290: sruba1 36
+    400292: sruba1 37
+    400294: sruba1 38
+    400296: sruba1 39
+    400298: sruba1 4
+    400300: sruba1 40
+    400302: sruba1 41
+    400304: sruba1 42
+    400306: sruba1 43
+    400308: sruba1 5
+    400310: sruba1 6
+    400312: sruba1 7
+    400314: sruba1 8
+    400316: sruba1 9
+    400318: sruba2
+    400320: sruba2 1
+    400322: sruba2 10
+    400324: sruba2 11
+    400326: sruba2 12
+    400328: sruba2 13
+    400330: sruba2 14
+    400332: sruba2 15
+    400334: sruba2 16
+    400336: sruba2 17
+    400338: sruba2 18
+    400340: sruba2 19
+    400342: sruba2 2
+    400344: sruba2 20
+    400346: sruba2 21
+    400348: sruba2 22
+    400350: sruba2 23
+    400352: sruba2 24
+    400354: sruba2 25
+    400356: sruba2 26
+    400358: sruba2 27
+    400360: sruba2 28
+    400362: sruba2 29
+    400364: sruba2 3
+    400366: sruba2 30
+    400368: sruba2 31
+    400370: sruba2 32
+    400372: sruba2 33
+    400374: sruba2 34
+    400376: sruba2 35
+    400378: sruba2 36
+    400380: sruba2 37
+    400382: sruba2 4
+    400384: sruba2 5
+    400386: sruba2 6
+    400388: sruba2 7
+    400390: sruba2 8
+    400392: sruba2 9
+    400394: switch
+    400396: switch 1
+    400398: switch 2
+    400400: switch 3
+    400402: szybka
+    400404: szybka#1
+    400406: uchwyt
+    400408: uchwyt 1
+    400410: uchwyt 2
+    400412: Wentylator 120mm
+    400414: wentylator_120
+    400416: whatever
+    2300000: alu1
+    2300002: alu1#1
+    2300004: alu1#1 1
+    2300006: alu1#2
+    2300008: backdoor
+    2300010: biohaz
+    2300012: //RootNode
+    2300014: cathode
+    2300016: cathode 1
+    2300018: cdrom
+    2300020: Component#1
+    2300022: control panel
+    2300024: core
+    2300026: core tube
+    2300028: core_floor
+    2300030: gauge
+    2300032: gauge glass
+    2300034: gauge glass 1
+    2300036: gauge#1
+    2300038: Group 111
+    2300040: Group 147
+    2300042: Group 149
+    2300044: Group 155
+    2300046: Group 157
+    2300048: Group 159
+    2300050: Group 163
+    2300052: Group 165
+    2300054: Group 167
+    2300056: Group 347
+    2300058: Group 371
+    2300060: Group 7
+    2300062: Group 9
+    2300064: handler
+    2300066: handler 1
+    2300068: hatch
+    2300070: hatch holder
+    2300072: hdd chassis
+    2300074: hdd screw
+    2300076: hdd screw 1
+    2300078: hdd screw 10
+    2300080: hdd screw 11
+    2300082: hdd screw 12
+    2300084: hdd screw 13
+    2300086: hdd screw 14
+    2300088: hdd screw 15
+    2300090: hdd screw 16
+    2300092: hdd screw 17
+    2300094: hdd screw 18
+    2300096: hdd screw 19
+    2300098: hdd screw 2
+    2300100: hdd screw 3
+    2300102: hdd screw 4
+    2300104: hdd screw 5
+    2300106: hdd screw 6
+    2300108: hdd screw 7
+    2300110: hdd screw 8
+    2300112: hdd screw 9
+    2300114: HyPeRDrEaMz2000@yahoo.com_-_ATX_MOBO_+_MOBO_Tray_+_Rear_IO_Panel_+_Mounting_Screws
+    2300116: Image 48
+    2300118: Image 49
+    2300120: Image 50
+    2300122: Image 51
+    2300124: Image 52
+    2300126: Image 53
+    2300128: Image 54
+    2300130: Image 55
+    2300132: Image 56
+    2300134: Image 57
+    2300136: Image 58
+    2300138: Image 59
+    2300140: Image 60
+    2300142: Image 61
+    2300144: Image 62
+    2300146: Image 63
+    2300148: Image 64
+    2300150: Image 65
+    2300152: Image 66
+    2300154: Image 67
+    2300156: led
+    2300158: led 1
+    2300160: led#1
+    2300162: led#1 1
+    2300164: led#2
+    2300166: led#2 1
+    2300168: led#3
+    2300170: led#3 1
+    2300172: libella
+    2300174: lock1
+    2300176: MSI KT6V
+    2300178: OptDrives- Tray- Devil_Hack
+    2300180: PC Fan Grill
+    2300182: pen
+    2300184: pen 1
+    2300186: pen 2
+    2300188: pen 3
+    2300190: pen 4
+    2300192: pen 5
+    2300194: pen 6
+    2300196: pen 7
+    2300198: PSU- ATX- Pjotr
+    2300200: rurka1
+    2300202: rurka1 1
+    2300204: rurka1 2
+    2300206: rurka1 3
+    2300208: rurka1#1
+    2300210: rurka1#1 1
+    2300212: Seagate Barracuda Hard Disk
+    2300214: Seagate Barracuda Hard Disk 1
+    2300216: ske92D
+    2300218: sruba
+    2300220: sruba 1
+    2300222: sruba 2
+    2300224: sruba 3
+    2300226: sruba1
+    2300228: sruba1 1
+    2300230: sruba1 10
+    2300232: sruba1 11
+    2300234: sruba1 12
+    2300236: sruba1 13
+    2300238: sruba1 14
+    2300240: sruba1 15
+    2300242: sruba1 16
+    2300244: sruba1 17
+    2300246: sruba1 18
+    2300248: sruba1 19
+    2300250: sruba1 2
+    2300252: sruba1 20
+    2300254: sruba1 21
+    2300256: sruba1 22
+    2300258: sruba1 23
+    2300260: sruba1 24
+    2300262: sruba1 25
+    2300264: sruba1 26
+    2300266: sruba1 27
+    2300268: sruba1 28
+    2300270: sruba1 29
+    2300272: sruba1 3
+    2300274: sruba1 30
+    2300276: sruba1 31
+    2300278: sruba1 32
+    2300280: sruba1 33
+    2300282: sruba1 34
+    2300284: sruba1 35
+    2300286: sruba1 36
+    2300288: sruba1 37
+    2300290: sruba1 38
+    2300292: sruba1 39
+    2300294: sruba1 4
+    2300296: sruba1 40
+    2300298: sruba1 41
+    2300300: sruba1 42
+    2300302: sruba1 43
+    2300304: sruba1 5
+    2300306: sruba1 6
+    2300308: sruba1 7
+    2300310: sruba1 8
+    2300312: sruba1 9
+    2300314: sruba2
+    2300316: sruba2 1
+    2300318: sruba2 10
+    2300320: sruba2 11
+    2300322: sruba2 12
+    2300324: sruba2 13
+    2300326: sruba2 14
+    2300328: sruba2 15
+    2300330: sruba2 16
+    2300332: sruba2 17
+    2300334: sruba2 18
+    2300336: sruba2 19
+    2300338: sruba2 2
+    2300340: sruba2 20
+    2300342: sruba2 21
+    2300344: sruba2 22
+    2300346: sruba2 23
+    2300348: sruba2 24
+    2300350: sruba2 25
+    2300352: sruba2 26
+    2300354: sruba2 27
+    2300356: sruba2 28
+    2300358: sruba2 29
+    2300360: sruba2 3
+    2300362: sruba2 30
+    2300364: sruba2 31
+    2300366: sruba2 32
+    2300368: sruba2 33
+    2300370: sruba2 34
+    2300372: sruba2 35
+    2300374: sruba2 36
+    2300376: sruba2 37
+    2300378: sruba2 4
+    2300380: sruba2 5
+    2300382: sruba2 6
+    2300384: sruba2 7
+    2300386: sruba2 8
+    2300388: sruba2 9
+    2300390: switch
+    2300392: switch 1
+    2300394: switch 2
+    2300396: switch 3
+    2300398: szybka
+    2300400: szybka#1
+    2300402: uchwyt
+    2300404: uchwyt 1
+    2300406: uchwyt 2
+    2300408: whatever
+    3300000: alu1
+    3300002: alu1#1
+    3300004: alu1#1 1
+    3300006: alu1#2
+    3300008: backdoor
+    3300010: biohaz
+    3300012: //RootNode
+    3300014: cathode
+    3300016: cathode 1
+    3300018: cdrom
+    3300020: Component#1
+    3300022: control panel
+    3300024: core
+    3300026: core tube
+    3300028: core_floor
+    3300030: gauge
+    3300032: gauge glass
+    3300034: gauge glass 1
+    3300036: gauge#1
+    3300038: Group 111
+    3300040: Group 147
+    3300042: Group 149
+    3300044: Group 155
+    3300046: Group 157
+    3300048: Group 159
+    3300050: Group 163
+    3300052: Group 165
+    3300054: Group 167
+    3300056: Group 347
+    3300058: Group 371
+    3300060: Group 7
+    3300062: Group 9
+    3300064: handler
+    3300066: handler 1
+    3300068: hatch
+    3300070: hatch holder
+    3300072: hdd chassis
+    3300074: hdd screw
+    3300076: hdd screw 1
+    3300078: hdd screw 10
+    3300080: hdd screw 11
+    3300082: hdd screw 12
+    3300084: hdd screw 13
+    3300086: hdd screw 14
+    3300088: hdd screw 15
+    3300090: hdd screw 16
+    3300092: hdd screw 17
+    3300094: hdd screw 18
+    3300096: hdd screw 19
+    3300098: hdd screw 2
+    3300100: hdd screw 3
+    3300102: hdd screw 4
+    3300104: hdd screw 5
+    3300106: hdd screw 6
+    3300108: hdd screw 7
+    3300110: hdd screw 8
+    3300112: hdd screw 9
+    3300114: HyPeRDrEaMz2000@yahoo.com_-_ATX_MOBO_+_MOBO_Tray_+_Rear_IO_Panel_+_Mounting_Screws
+    3300116: Image 48
+    3300118: Image 49
+    3300120: Image 50
+    3300122: Image 51
+    3300124: Image 52
+    3300126: Image 53
+    3300128: Image 54
+    3300130: Image 55
+    3300132: Image 56
+    3300134: Image 57
+    3300136: Image 58
+    3300138: Image 59
+    3300140: Image 60
+    3300142: Image 61
+    3300144: Image 62
+    3300146: Image 63
+    3300148: Image 64
+    3300150: Image 65
+    3300152: Image 66
+    3300154: Image 67
+    3300156: led
+    3300158: led 1
+    3300160: led#1
+    3300162: led#1 1
+    3300164: led#2
+    3300166: led#2 1
+    3300168: led#3
+    3300170: led#3 1
+    3300172: libella
+    3300174: lock1
+    3300176: MSI KT6V
+    3300178: OptDrives- Tray- Devil_Hack
+    3300180: PC Fan Grill
+    3300182: pen
+    3300184: pen 1
+    3300186: pen 2
+    3300188: pen 3
+    3300190: pen 4
+    3300192: pen 5
+    3300194: pen 6
+    3300196: pen 7
+    3300198: PSU- ATX- Pjotr
+    3300200: rurka1
+    3300202: rurka1 1
+    3300204: rurka1 2
+    3300206: rurka1 3
+    3300208: rurka1#1
+    3300210: rurka1#1 1
+    3300212: Seagate Barracuda Hard Disk
+    3300214: Seagate Barracuda Hard Disk 1
+    3300216: ske92D
+    3300218: sruba
+    3300220: sruba 1
+    3300222: sruba 2
+    3300224: sruba 3
+    3300226: sruba1
+    3300228: sruba1 1
+    3300230: sruba1 10
+    3300232: sruba1 11
+    3300234: sruba1 12
+    3300236: sruba1 13
+    3300238: sruba1 14
+    3300240: sruba1 15
+    3300242: sruba1 16
+    3300244: sruba1 17
+    3300246: sruba1 18
+    3300248: sruba1 19
+    3300250: sruba1 2
+    3300252: sruba1 20
+    3300254: sruba1 21
+    3300256: sruba1 22
+    3300258: sruba1 23
+    3300260: sruba1 24
+    3300262: sruba1 25
+    3300264: sruba1 26
+    3300266: sruba1 27
+    3300268: sruba1 28
+    3300270: sruba1 29
+    3300272: sruba1 3
+    3300274: sruba1 30
+    3300276: sruba1 31
+    3300278: sruba1 32
+    3300280: sruba1 33
+    3300282: sruba1 34
+    3300284: sruba1 35
+    3300286: sruba1 36
+    3300288: sruba1 37
+    3300290: sruba1 38
+    3300292: sruba1 39
+    3300294: sruba1 4
+    3300296: sruba1 40
+    3300298: sruba1 41
+    3300300: sruba1 42
+    3300302: sruba1 43
+    3300304: sruba1 5
+    3300306: sruba1 6
+    3300308: sruba1 7
+    3300310: sruba1 8
+    3300312: sruba1 9
+    3300314: sruba2
+    3300316: sruba2 1
+    3300318: sruba2 10
+    3300320: sruba2 11
+    3300322: sruba2 12
+    3300324: sruba2 13
+    3300326: sruba2 14
+    3300328: sruba2 15
+    3300330: sruba2 16
+    3300332: sruba2 17
+    3300334: sruba2 18
+    3300336: sruba2 19
+    3300338: sruba2 2
+    3300340: sruba2 20
+    3300342: sruba2 21
+    3300344: sruba2 22
+    3300346: sruba2 23
+    3300348: sruba2 24
+    3300350: sruba2 25
+    3300352: sruba2 26
+    3300354: sruba2 27
+    3300356: sruba2 28
+    3300358: sruba2 29
+    3300360: sruba2 3
+    3300362: sruba2 30
+    3300364: sruba2 31
+    3300366: sruba2 32
+    3300368: sruba2 33
+    3300370: sruba2 34
+    3300372: sruba2 35
+    3300374: sruba2 36
+    3300376: sruba2 37
+    3300378: sruba2 4
+    3300380: sruba2 5
+    3300382: sruba2 6
+    3300384: sruba2 7
+    3300386: sruba2 8
+    3300388: sruba2 9
+    3300390: switch
+    3300392: switch 1
+    3300394: switch 2
+    3300396: switch 3
+    3300398: szybka
+    3300400: szybka#1
+    3300402: uchwyt
+    3300404: uchwyt 1
+    3300406: uchwyt 2
+    3300408: whatever
+    4300000: Mesh bioreactor
+    4300002: Mesh HyPeRDrEaMz2000@yahoo.com_-_ATX_MOBO_+_MOBO_Tray_+_Rear_IO_Panel_+_Mounting_Screws
+    4300004: Mesh Group 7
+    4300006: Mesh Group 9
+    4300008: Mesh MSI KT6V
+    4300010: Mesh MSI KT6V
+    4300012: Mesh MSI KT6V
+    4300014: Mesh MSI KT6V
+    4300016: Mesh MSI KT6V
+    4300018: Mesh MSI KT6V
+    4300020: Mesh MSI KT6V
+    4300022: Mesh MSI KT6V
+    4300024: Mesh MSI KT6V
+    4300026: Mesh MSI KT6V
+    4300028: Mesh MSI KT6V
+    4300030: Mesh MSI KT6V
+    4300032: Mesh MSI KT6V
+    4300034: Mesh MSI KT6V
+    4300036: Mesh MSI KT6V
+    4300038: Mesh MSI KT6V
+    4300040: Mesh MSI KT6V
+    4300042: Mesh MSI KT6V
+    4300044: Mesh MSI KT6V
+    4300046: Mesh MSI KT6V
+    4300048: Mesh MSI KT6V
+    4300050: Mesh ske92D
+    4300052: Mesh core
+    4300054: Mesh sruba
+    4300056: Mesh core tube
+    4300058: Mesh pen
+    4300060: Mesh sruba2
+    4300062: Mesh alu1#2
+    4300064: Mesh OptDrives- Tray- Devil_Hack
+    4300066: Mesh Group 111
+    4300068: Mesh sruba1
+    4300070: Mesh backdoor
+    4300072: Mesh handler
+    4300074: Mesh gauge#1
+    4300076: Mesh gauge glass
+    4300078: Mesh gauge
+    4300080: Mesh core_floor
+    4300082: Mesh hatch
+    4300084: Mesh Group 147
+    4300086: Mesh Group 149
+    4300088: Mesh PSU- ATX- Pjotr
+    4300090: Mesh PC Fan Grill
+    4300092: Mesh Group 155
+    4300094: Mesh Group 163
+    4300096: Mesh Group 165
+    4300098: Mesh Group 167
+    4300100: Mesh szybka#1
+    4300102: Mesh szybka
+    4300104: Mesh Component#1
+    4300106: Mesh biohaz
+    4300108: Mesh sruba1
+    4300110: Mesh lock1
+    4300112: Mesh libella
+    4300114: Mesh hatch holder
+    4300116: Mesh whatever
+    4300118: Mesh uchwyt
+    4300120: Mesh rurka1#1
+    4300122: Mesh alu1
+    4300124: Mesh alu1#1
+    4300126: Mesh control panel
+    4300128: Mesh led#3
+    4300130: Mesh led
+    4300132: Mesh led#1
+    4300134: Mesh led#2
+    4300136: Mesh switch
+    4300138: Mesh cathode
+    4300140: Mesh hdd chassis
+    4300142: Mesh Seagate Barracuda Hard Disk
+    4300144: Mesh Group 347
+    4300146: Mesh hdd screw
+    4300148: Mesh rurka1
+    4300150: Mesh cdrom
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .0253999997
+    meshCompression: 3
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

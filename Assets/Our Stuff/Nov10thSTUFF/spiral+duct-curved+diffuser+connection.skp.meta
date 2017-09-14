@@ -1,0 +1,150 @@
+fileFormatVersion: 2
+guid: 4f9e45d374c955e45ad770131563d4af
+timeCreated: 1447537902
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f00000010000000
+  assetHash:
+    serializedVersion: 2
+    Hash: d1dbf8e54e5ededb5979a72274dccfd2
+  longitude: -105.283
+  latitude: 40.017000000000003
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 3.46275806, y: .458584249, z: -1.22027063}
+      lookAt: {x: 1.96904123, y: -.288274109, z: .273446113}
+      up: {x: -.235702261, y: .942809045, z: .235702261}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes:
+    - camera:
+        position: {x: 3.5446465, y: -.581376255, z: -1.49230158}
+        lookAt: {x: 1.00768757, y: .687103152, z: 1.04465723}
+        up: {x: .235702261, y: .942809045, z: -.235702261}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 8
+    - camera:
+        position: {x: 3.46275806, y: .458584249, z: -1.22027063}
+        lookAt: {x: 1.96904123, y: -.288274109, z: .273446113}
+        up: {x: -.235702261, y: .942809045, z: .235702261}
+        fov: 35
+        aspectRatio: 0
+        orthoSize: 1
+        isPerspective: 1
+      name: Scene 11
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: 30_x6_ Air Return Grill
+    100002: 30_x6_ Air Return Grill 1
+    100004: 30_x6_ Air Return Grill#1
+    100006: Group 1
+    100008: Group 13
+    100010: Group 15
+    100012: Group 5
+    100014: //RootNode
+    100016: Untitled009
+    400000: 30_x6_ Air Return Grill
+    400002: 30_x6_ Air Return Grill 1
+    400004: 30_x6_ Air Return Grill#1
+    400006: Group 1
+    400008: Group 13
+    400010: Group 15
+    400012: Group 5
+    400014: //RootNode
+    400016: Untitled009
+    2300000: 30_x6_ Air Return Grill
+    2300002: 30_x6_ Air Return Grill 1
+    2300004: 30_x6_ Air Return Grill#1
+    2300006: Group 1
+    2300008: Group 13
+    2300010: Group 15
+    2300012: Group 5
+    2300014: Untitled009
+    3300000: 30_x6_ Air Return Grill
+    3300002: 30_x6_ Air Return Grill 1
+    3300004: 30_x6_ Air Return Grill#1
+    3300006: Group 1
+    3300008: Group 13
+    3300010: Group 15
+    3300012: Group 5
+    3300014: Untitled009
+    4300000: Mesh Group 1
+    4300002: Mesh 30_x6_ Air Return Grill
+    4300004: Mesh Group 5
+    4300006: Mesh 30_x6_ Air Return Grill#1
+    4300008: Mesh Untitled009
+    4300010: Mesh Group 13
+    4300012: Mesh Group 15
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .0253999997
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

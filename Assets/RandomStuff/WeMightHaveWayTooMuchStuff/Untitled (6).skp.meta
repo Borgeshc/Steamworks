@@ -1,0 +1,120 @@
+fileFormatVersion: 2
+guid: a6db35abf6b7ddf47863390652d8dbdb
+timeCreated: 1448480384
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 06fa02c0d9c01efba018c2ecd3a9c44d
+  longitude: -105.28840333270094
+  latitude: 40.013042692874919
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 8.17411327, y: 3.88030815, z: 7.04144859}
+      lookAt: {x: -5437.90674, y: -2104.66211, z: -3380.0874}
+      up: {x: -.265212923, y: .949976265, z: -.164946198}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Double-Slit Experiment
+    100002: GeodesicSphere02
+    100004: GeodesicSphere02 1
+    100006: GeodesicSphere02 2
+    100008: GeodesicSphere02 3
+    100010: ske6C1
+    100012: //RootNode
+    400000: Double-Slit Experiment
+    400002: GeodesicSphere02
+    400004: GeodesicSphere02 1
+    400006: GeodesicSphere02 2
+    400008: GeodesicSphere02 3
+    400010: ske6C1
+    400012: //RootNode
+    2300000: Double-Slit Experiment
+    2300002: GeodesicSphere02
+    2300004: GeodesicSphere02 1
+    2300006: GeodesicSphere02 2
+    2300008: GeodesicSphere02 3
+    2300010: ske6C1
+    3300000: Double-Slit Experiment
+    3300002: GeodesicSphere02
+    3300004: GeodesicSphere02 1
+    3300006: GeodesicSphere02 2
+    3300008: GeodesicSphere02 3
+    3300010: ske6C1
+    4300000: Mesh Double-Slit Experiment
+    4300002: Mesh ske6C1
+    4300004: Mesh GeodesicSphere02
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .0253999997
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
